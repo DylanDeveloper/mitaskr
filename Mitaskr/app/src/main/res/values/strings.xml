@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mitaskr</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="title_activity_live_card_service">Hello World LiveCard</string>
+    <string name="action_stop">Stop</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
